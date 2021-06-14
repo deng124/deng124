@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deng124
 - 👀 I’m interested in bicycle
 - 🌱 I’m currently learning the way to be a product manager
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on you
 - 📫 How to reach me ...
 
 <!---
